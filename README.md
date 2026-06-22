@@ -59,4 +59,9 @@ Become a Software Engineer at a leading product company
   <img src="https://github-profile-trophy.vercel.app/?username=Harshsingh-alt&theme=tokyonight&row=1&column=6" />
 </p>
 
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshsingh-alt&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
 
