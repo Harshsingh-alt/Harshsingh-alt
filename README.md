@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,100:8A2BE2&text=Harsh%20Rajput&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,100:8A2BE2&text=Harsh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">Java Developer | AI/ML Student | Future Software Engineer</h3>
