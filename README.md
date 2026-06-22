@@ -21,12 +21,6 @@
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge"/>
   </a>
 </p>
-...
-<a href="#">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge"/>
-</a>
-
-</p>
 
 ## 👋 About Me
 
