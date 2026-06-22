@@ -44,11 +44,6 @@ Become a Software Engineer at a leading product company
   <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,html,css" />
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,html,css" />
-</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
