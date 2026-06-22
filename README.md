@@ -58,4 +58,10 @@ Become a Software Engineer at a leading product company
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshsingh-alt&layout=compact&theme=tokyonight"/>
 </p>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshsingh-alt&theme=tokyonight&row=1&column=6" />
+</p>
+
 
