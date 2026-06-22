@@ -4,8 +4,34 @@
 <h3 align="center">Passionate About Java, AI/ML & Turning Ideas Into Real Projects</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;AI%2FML+Student;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?..."/>
 </p>
+
+<table>
+<tr>
+<td width="65%">
+
+<h2>👋 Hello, I'm Harsh Singh</h2>
+
+🎓 B.Tech CSE (AI/ML) Student
+
+💻 Java Developer
+
+🤖 AI/ML Enthusiast
+
+🚀 Building Real Projects
+
+📚 Learning DSA, Spring Boot & Machine Learning
+
+</td>
+
+<td width="35%">
+
+<img src="https://raw.githubusercontent.com/Harshsingh-alt/Harshsingh-alt/main/profileimage.jpeg" width="220"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/harsh-singh-63238328a">
