@@ -11,7 +11,11 @@
 <tr>
 <td width="65%">
 
-<h2>👋 Hello, I'm Harsh Singh</h2>
+<table>
+<tr>
+<td width="65%">
+
+<h2>👋 Hello, I'm Harsh Singh Rajput</h2>
 
 🎓 B.Tech CSE (AI/ML) Student
 
@@ -27,7 +31,7 @@
 
 <td width="35%">
 
-<img src="https://raw.githubusercontent.com/Harshsingh-alt/Harshsingh-alt/main/profileimage.jpeg" width="220"/>
+<img src="https://raw.githubusercontent.com/Harshsingh-alt/Harshsingh-alt/master/profileimage.jpeg" width="220"/>
 
 </td>
 </tr>
