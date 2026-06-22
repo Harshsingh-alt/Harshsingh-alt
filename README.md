@@ -64,9 +64,6 @@ Become a Software Engineer at a leading product company
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,html,css" />
-</p>
 
 
 <h2 align="center">📊 GitHub Stats</h2>
