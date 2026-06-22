@@ -27,7 +27,7 @@
 
 <td width="35%">
 
-<img src=("https://raw.githubusercontent.com/Harshsingh-alt/Harshsingh-alt/main/profileimage.jpeg") width="220"/>
+<img src="https://raw.githubusercontent.com/Harshsingh-alt/Harshsingh-alt/main/profileimage.jpeg" width="220"/>
 
 </td>
 </tr>
