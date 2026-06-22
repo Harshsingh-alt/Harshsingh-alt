@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1178" height="222" alt="image" src="https://github.com/user-attachments/assets/c6aa2708-36c8-4a5d-9eba-e4dfe0b35e96" /><p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,100:8A2BE2&text=Harsh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
@@ -39,7 +39,24 @@
 Become a Software Engineer at a leading product company
 
 <h2 align="center">💻 Tech Stack</h2>
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-blue?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MEDIAPIPE-green?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,html,css" />
 </p>
