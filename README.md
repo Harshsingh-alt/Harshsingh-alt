@@ -4,12 +4,8 @@
 <h3 align="center">Passionate About Java, AI/ML & Turning Ideas Into Real Projects</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?..."/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=8B5E3C&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;AI%2FML+Student;Always+Learning+New+Things"/>
 </p>
-
-<table>
-<tr>
-<td width="65%">
 
 <table>
 <tr>
